@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "21cd2963-43d8-49be-8f9e-00902261e173",
+        "fields": {
+            "title": "Django Unleashed",
+            "author": "David Cornea",
+            "price": "20.00",
+            "date_publication": "2022-11-21",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "6e10729c-22d4-464f-aeea-754bdf7585bf",
+        "fields": {
+            "title": "Lightweight",
+            "author": "David Cornea",
+            "price": "10.00",
+            "date_publication": "2022-11-21",
+            "cover": "covers/Lightweight.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "d8d00a66-b26b-4960-a23d-eb243d94aab9",
+        "fields": {
+            "title": "Python Cookbook",
+            "author": "David Cornea",
+            "price": "40.00",
+            "date_publication": "2022-11-22",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
